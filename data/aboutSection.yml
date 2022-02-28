@@ -15,5 +15,5 @@ content: >
 button1Name: Checkout Project
 button2Name: Team Members
 button1Target: https://github.com/Augmented-and-Automated-Underwriting/augmented-and-automated-underwriting
-button2Target: about
+button2Target: blog
 image: images/about/about1.jpg
