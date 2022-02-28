@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 paginate = 6
-theme = "roxo"
+theme = "portio"
 title = "Automated Insurance Underwriting"
 # Main Menu
 [[menu.main]]
