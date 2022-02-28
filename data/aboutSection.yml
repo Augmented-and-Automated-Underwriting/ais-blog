@@ -1,0 +1,19 @@
+---
+enable: true
+# topTitle: About
+title: >
+  ## About the project
+
+  Enhancing Efficiency in underwriting through augmented and automated underwriting by use of AI and Machine Learning.
+content: >
+  # Automate Using AI and Machine Learning
+  
+   Automated insurance underwriting is the process where robotic process 
+   automation (RPA) and artificial intelligence (AI) software underwrites the risk of potential clients. 
+   The advanced tech uses AI and machine learning (ML) to evaluate risk, decide how much coverage the client should receive, and how much they should pay for it.
+
+button1Name: Checkout Project
+button2Name: Team Members
+button1Target: contact
+button2Target: contact
+image: images/about/about1.jpg
