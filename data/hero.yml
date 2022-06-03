@@ -7,7 +7,7 @@ content: >
   Forget about the hassle for you to get a personalized quote, and get your's now.
   You just need to fill out a few details and boom, we have your quote ready.
 buttonName: Get Quote Now.
-buttonURL: contact
+buttonURL: /contact
 image: images/hero/insurance_recommender.png
 videoThumb: images/hero/popup-thumb.png
 videoURL: https://www.youtube.com/watch?v=zRc3-EiudMo
